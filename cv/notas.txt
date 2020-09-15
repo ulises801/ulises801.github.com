@@ -1,0 +1,13 @@
+//MetaDatos
+//Open Graph
+
+<meta name="og:title" content="CV de Ulises">
+<meta name="og:description" content="Ulises es un Desarrollador Web rookie">
+<meta name="og:url" content="http://uriel.me">
+<meta name="og:site_name" content="Proyectos personales Ulises">
+<meta name="og:type" content="website">
+<meta name="og:image" content="<url-image>">
+
+//Atributos
+<p nombre="valor"> </p>
+<input autofocus>
